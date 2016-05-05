@@ -1,0 +1,15 @@
+{
+  "name": "thack",
+  "version": "0.0.1",
+  "description": "Hacking utilies for finding security breaches.",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "keywords": [
+    "xss",
+    "password"
+  ],
+  "author": "Toni Aho",
+  "license": "ISC"
+}
